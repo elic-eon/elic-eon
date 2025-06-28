@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Repo shortcuts
+
+Current [dotfiles](https://github.com/elic-eon/dotfiles)
+: yabai + skhd + sketchybar
