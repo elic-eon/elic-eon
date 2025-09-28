@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 #### Repo shortcuts
 
 Current [dotfiles](https://github.com/elic-eon/dotfiles)
+WM
 : yabai + skhd + sketchybar
+Coding
+: wezterm + cursor + vim
